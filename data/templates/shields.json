@@ -1,0 +1,13 @@
+[
+    {
+        "id": 13001,
+        "name": "INSERTNAME",
+        "sp": 0,
+        "regen": 0,
+        "pcu": 1,
+        "cost": {
+            "multiplier": false,
+            "buildPoints": 0
+        }
+    }
+]

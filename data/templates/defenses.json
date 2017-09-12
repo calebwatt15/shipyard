@@ -1,0 +1,12 @@
+[
+    {
+        "id": 7001,
+        "name": "INSERTNAME",
+        "targetLock": 0,
+        "pcu": 0,
+        "cost": {
+            "multiplier": false,
+            "buildPoints": 0
+        }
+    }
+]

@@ -1,13 +1,61 @@
 [
     {
         "id": 8001,
-        "name": "INSERTNAME",
-        "rating": 0,
-        "pcu": 0,
+        "name": "Signal Basic",
+        "rating": 1,
+        "pcu": 75,
+        "maxSize": 7,
+        "cost": {
+            "multiplier": true,
+            "buildPoints": 2
+        }
+    }
+    
+    {
+        "id": 8002,
+        "name": "Signal Booster",
+        "rating": 2,
+        "pcu": 100,
         "maxSize": 5,
         "cost": {
             "multiplier": true,
-            "buildPoints": 0
+            "buildPoints": 5
+        }
+    }
+    
+    {
+        "id": 8003,
+        "name": "Signal Major",
+        "rating": 3,
+        "pcu": 150,
+        "maxSize": 4,
+        "cost": {
+            "multiplier": true,
+            "buildPoints": 10
+        }
+    }
+    
+    {
+        "id": 8004,
+        "name": "Signal Superior",
+        "rating": 4,
+        "pcu": 175,
+        "maxSize": 4,
+        "cost": {
+            "multiplier": true,
+            "buildPoints": 15
+        }
+    }
+    
+    {
+        "id": 8005,
+        "name": "Signal Ultra",
+        "rating": 5,
+        "pcu": 200,
+        "maxSize": 3,
+        "cost": {
+            "multiplier": true,
+            "buildPoints": 20
         }
     }
 ]

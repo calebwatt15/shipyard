@@ -1,18 +1,52 @@
 [
     {
         "id": 12001,
-        "name": "INSERTNAME",
-        "sizeWeapon": 0,
+        "name": "Chain cannon",
+        "sizeWeapon": 1,
         "type": "direct-fire",
-        "range": 0,
+        "range": 1,
         "speed": 0,
-        "damage": "0d0",
-        "pcu": 0,
+        "damage": "6d4",
+        "pcu": 15,
+        "special": "Ripper",
+        "minSize": 1,
+        "cost": {
+            "multiplier": false,
+            "buildPoints": 15
+        }
+    }
+    
+    {
+        "id": 12002,
+        "name": "Coilgun",
+        "sizeWeapon": 1,
+        "type": "direct-fire",
+        "range": 3,
+        "speed": 0,
+        "damage": "4d4",
+        "pcu": 10,
         "special": "-",
         "minSize": 1,
         "cost": {
             "multiplier": false,
-            "buildPoints": 0
+            "buildPoints": 6
+        }
+    }
+    
+    {
+        "id": 12028,
+        "name": "Heavy Antimatter missile launcher",
+        "sizeWeapon": 2,
+        "type": "tracking",
+        "range": 3,
+        "speed": 8,
+        "damage": "10d10",
+        "pcu": 15,
+        "special": "Limited fire 5",
+        "minSize": 3,
+        "cost": {
+            "multiplier": false,
+            "buildPoints": 12
         }
     }
 ]

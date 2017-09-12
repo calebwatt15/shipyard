@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1001,
+        "size": {
+        "name": "tiny",
+        "number": 1
+        },
+        "name": "INSERTNAME",
+        "maneuverability": {
+            "name": "perfect",
+            "pilotingBonus": 2,
+            "turn": 0
+        },
+        "hp": {
+            "base": 20, 
+            "increment": 5
+        },
+        "dt": 0,
+        "ct": 4,
+        "mounts": {
+            "forward": {"light": 1, "heavy": 0, "capital": 0, "trackingLight": 0, "trackingHeavy": 0}, 
+            "aft":  {"light": 1, "heavy": 0, "capital": 0, "trackingLight": 0, "trackingHeavy": 0}, 
+            "starboard": {"light": 0, "heavy": 0, "capital": 0, "trackingLight": 0, "trackingHeavy": 0}, 
+            "port": {"light": 0, "heavy": 0, "capital": 0, "trackingLight": 0, "trackingHeavy": 0},
+            "turret": {"light": 0, "heavy": 0, "capital": 0, "trackingLight": 0, "trackingHeavy": 0},
+        },
+        "bays": 0,
+        "minCrew": 1,
+        "maxCrew": 1,
+        "cost": {
+            "multiplier": false,
+            "buildPoints": 0
+        }
+    }
+]

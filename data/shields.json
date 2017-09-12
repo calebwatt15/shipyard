@@ -1,13 +1,25 @@
 [
     {
         "id": 13001,
-        "name": "INSERTNAME",
-        "sp": 0,
-        "regen": 0,
-        "pcu": 1,
+        "name": "Basic Shields 10",
+        "sp": 10,
+        "regen": 1,
+        "pcu": 5,
         "cost": {
             "multiplier": false,
-            "buildPoints": 0
+            "buildPoints": 2
+        }
+    }
+    
+    {
+        "id": 13005,
+        "name": "Light Shields 50",
+        "sp": 50,
+        "regen": 2,
+        "pcu": 20,
+        "cost": {
+            "multiplier": false,
+            "buildPoints": 6
         }
     }
 ]

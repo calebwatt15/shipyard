@@ -3,9 +3,9 @@
         "id": 1001,
         "size": {
         "name": "tiny",
-        "number": 0
+        "number": 1
         },
-        "name": "INSERTNAME",
+        "name": "RACER",
         "maneuverability": {
             "name": "perfect",
             "pilotingBonus": 2,
@@ -29,7 +29,40 @@
         "maxCrew": 1,
         "cost": {
             "multiplier": false,
-            "buildPoints": 0
+            "buildPoints": 4
+        }
+    }
+    {
+        "id": 1004,
+        "size": {
+        "name": "small",
+        "number": 2
+        },
+        "name": "SHUTTLE",
+        "maneuverability": {
+            "name": "perfect",
+            "pilotingBonus": 2,
+            "turn": 0
+        },
+        "hp": {
+            "base": 35, 
+            "increment": 5
+        },
+        "dt": 0,
+        "ct": 7,
+        "mounts": {
+            "forward": {"light": 1, "heavy": 0, "capital": 0, "trackingLight": 0, "trackingHeavy": 0}, 
+            "aft":  {"light": 0, "heavy": 0, "capital": 0, "trackingLight": 0, "trackingHeavy": 0}, 
+            "starboard": {"light": 0, "heavy": 0, "capital": 0, "trackingLight": 0, "trackingHeavy": 0}, 
+            "port": {"light": 0, "heavy": 0, "capital": 0, "trackingLight": 0, "trackingHeavy": 0},
+            "turret": {"light": 0, "heavy": 0, "capital": 0, "trackingLight": 0, "trackingHeavy": 0},
+        },
+        "bays": 3,
+        "minCrew": 1,
+        "maxCrew": 4,
+        "cost": {
+            "multiplier": false,
+            "buildPoints": 6
         }
     }
 ]

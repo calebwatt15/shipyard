@@ -1,0 +1,13 @@
+[
+    {
+        "id": 8001,
+        "name": "INSERTNAME",
+        "rating": 0,
+        "pcu": 0,
+        "maxSize": 5,
+        "cost": {
+            "multiplier": true,
+            "buildPoints": 0
+        }
+    }
+]

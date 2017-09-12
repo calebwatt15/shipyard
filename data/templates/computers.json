@@ -1,0 +1,13 @@
+[
+    {
+        "id": 5001,
+        "name": "INSERTNAME",
+        "bonus": 0,
+        "nodes": 0,
+        "pcu": 0,
+        "cost": {
+            "multiplier": false,
+            "buildPoints": 0
+        }
+    }
+]

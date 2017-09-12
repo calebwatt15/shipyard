@@ -1,15 +1,29 @@
 [
     {
         "id": 4001,
-        "name": "INSERTNAME",
-        "ac": 0,
+        "name": "Mk 1 armor",
+        "ac": 1,
         "special": {
             "targetLock": 0,
             "turnDistance": 0
         },
         "cost": {
             "multiplier": true,
-            "buildPoints": 0
+            "buildPoints": 1
+        }
+    }
+    
+    {
+        "id": 4009,
+        "name": "Mk 9 armor",
+        "ac": 9,
+        "special": {
+            "targetLock": -2,
+            "turnDistance": 1
+        },
+        "cost": {
+            "multiplier": true,
+            "buildPoints": 18
         }
     }
 ]

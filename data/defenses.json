@@ -1,12 +1,34 @@
 [
     {
         "id": 7001,
-        "name": "INSERTNAME",
-        "targetLock": 0,
-        "pcu": 0,
+        "name": "Mk 1 defenses",
+        "targetLock": 1,
+        "pcu": 1,
         "cost": {
             "multiplier": false,
-            "buildPoints": 0
+            "buildPoints": 2
+        }
+    }
+    
+    {
+        "id": 7002,
+        "name": "Mk 2 defenses",
+        "targetLock": 2,
+        "pcu": 1,
+        "cost": {
+            "multiplier": false,
+            "buildPoints": 3
+        }
+    }
+    
+    {
+        "id": 7003,
+        "name": "Mk 3 defenses",
+        "targetLock": 3,
+        "pcu": 2,
+        "cost": {
+            "multiplier": false,
+            "buildPoints": 4
         }
     }
 ]

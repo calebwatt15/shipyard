@@ -1,13 +1,37 @@
 [
     {
         "id": 5001,
-        "name": "INSERTNAME",
+        "name": "Basic Computer",
         "bonus": 0,
         "nodes": 0,
         "pcu": 0,
         "cost": {
             "multiplier": false,
             "buildPoints": 0
+        }
+    }
+    
+    {
+        "id": 5002,
+        "name": "Mk 1 mononode",
+        "bonus": 1,
+        "nodes": 1,
+        "pcu": 10,
+        "cost": {
+            "multiplier": false,
+            "buildPoints": 1
+        }
+    }
+    
+    {
+        "id": 5003,
+        "name": "Mk 1 duonode",
+        "bonus": 1,
+        "nodes": 2,
+        "pcu": 10,
+        "cost": {
+            "multiplier": false,
+            "buildPoints": 2
         }
     }
 ]

@@ -1,0 +1,18 @@
+[
+    {
+        "id": 12001,
+        "name": "INSERTNAME",
+        "sizeWeapon": 0,
+        "type": "direct-fire",
+        "range": 0,
+        "speed": 0,
+        "damage": "0d0",
+        "pcu": 0,
+        "special": "-",
+        "minSize": 1,
+        "cost": {
+            "multiplier": false,
+            "buildPoints": 0
+        }
+    }
+]

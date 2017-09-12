@@ -1,0 +1,12 @@
+[
+    {
+        "id": 2001,
+        "name": "INSERTNAME",
+        "size": 1,
+        "pcu": 50,
+        "cost": {
+            "multiplier": false,
+            "buildPoints": 4
+        }
+    }
+]

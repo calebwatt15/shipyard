@@ -1,0 +1,12 @@
+[
+    {
+        "id": 11001,
+        "name": "INSERTNAME",
+        "range": 0,
+        "modifier": 0,
+        "cost": {
+            "multiplier": false,
+            "buildPoints": 0
+        }
+    }
+]

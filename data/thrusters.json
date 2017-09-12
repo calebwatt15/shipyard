@@ -1,11 +1,40 @@
 [
     {
         "id": 3001,
-        "name": "INSERTNAME",
-        "size": 0,
-        "speed": 0,
+        "name": "T6 thrusters",
+        "size": 1,
+        "speed": 6,
+        "pilotingMod": 1,
+        "pcu": 20,
+        "cost": {
+            "multiplier": false,
+            "buildPoints": 3
+        }
+    }
+    
+    {
+        "id": 3002,
+        "name": "T8 thrusters",
+        "size": 1,
+        "speed": 8,
         "pilotingMod": 0,
-        "pcu": 0,
-        "cost": 4
+        "pcu": 25,
+        "cost": {
+            "multiplier": false,
+            "buildPoints": 4
+        }
+    }
+    
+    {
+        "id": 3006,
+        "name": "S6 thrusters",
+        "size": 2,
+        "speed": 6,
+        "pilotingMod": 1,
+        "pcu": 30,
+        "cost": {
+            "multiplier": false,
+            "buildPoints": 3
+        }
     }
 ]

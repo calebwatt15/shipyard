@@ -1,7 +1,19 @@
 [
     {
         "id": 9001,
-        "name": "INSERTNAME",
+        "name": "Arcane laboratory",
+        "pcu": 1,
+        "minSize": 1,
+        "numBays": 1,
+        "cost": {
+            "multiplier": false,
+            "buildPoints": 1
+        }
+    }
+    
+    {
+        "id": 9002,
+        "name": "Cargo Hold",
         "pcu": 0,
         "minSize": 1,
         "numBays": 1,

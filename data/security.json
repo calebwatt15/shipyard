@@ -1,10 +1,28 @@
 [
     {
         "id": 10001,
-        "name": "INSERTNAME",
+        "name": "Anti-hacking systems",
         "cost": {
             "multiplier": false,
-            "buildPoints": 0
+            "buildPoints": 3
+        }
+    }
+    
+    {
+        "id": 10002,
+        "name": "Biometric locks",
+        "cost": {
+            "multiplier": false,
+            "buildPoints": 5
+        }
+    }
+    
+    {
+        "id": 10003,
+        "name": "Self-destruct system",
+        "cost": {
+            "multiplier": true,
+            "buildPoints": 5
         }
     }
 ]

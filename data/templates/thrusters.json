@@ -1,0 +1,14 @@
+[
+    {
+        "id": 3001,
+        "name": "INSERTNAME",
+        "size": 1,
+        "speed": 0,
+        "pilotingMod": 0,
+        "pcu": 0,
+        "cost": {
+            "multiplier": false,
+            "buildPoints": 3
+        }
+    }
+]
