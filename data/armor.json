@@ -1,7 +1,7 @@
 [
     {
-        "id": 4001,     //unique ID of the armor, should start with 4xxx
-        "name": "INSERTNAME",   //name of the armor
+        "id": 4001,
+        "name": "INSERTNAME",
         "ac": 0,
         "special": {
             "targetLock": 0,

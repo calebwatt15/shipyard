@@ -1,10 +1,10 @@
 [
     {
-        "id": 8001,     //unique ID of the drift engine, should start with 8xxx
-        "name": "INSERTNAME",   //name of the drift engine
+        "id": 8001,
+        "name": "INSERTNAME",
         "rating": 0,
         "pcu": 0,
-        "maxSize": 0,
+        "maxSize": 5,
         "cost": {
             "multiplier": true,
             "buildPoints": 0

@@ -1,9 +1,9 @@
 [
     {
-        "id": 2001,     //unique ID number of the core. Should start with 20xx
-        "name": "INSERTNAME",   //name of the core
-        "size": 0, // 0 - tiny, 1 - sm, 2 - med, 3 - lg, 4 - garg, 5 - col
-        "pcu": 50, // pcu provided by this core
-        "cost": 0 // cost in build points
+        "id": 2001,
+        "name": "INSERTNAME",
+        "size": 1,
+        "pcu": 50,
+        "cost": 0
     }
 ]

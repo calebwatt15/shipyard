@@ -1,9 +1,9 @@
 [
     {
-        "id": 9001,     //unique ID of the expansion, should start with 9xxx
-        "name": "INSERTNAME",   //name of the expansion
+        "id": 9001,
+        "name": "INSERTNAME",
         "pcu": 0,
-        "minSize": 0,
+        "minSize": 1,
         "numBays": 1,
         "cost": {
             "multiplier": false,

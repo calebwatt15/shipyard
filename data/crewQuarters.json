@@ -1,7 +1,7 @@
 [
     {
-        "id": 6001,     //unique ID of the crew quarters, should start with 60xxx
-        "name": "INSERTNAME",   //name of the crew quarters
+        "id": 6001,
+        "name": "INSERTNAME",
         "cost": {
             "multiplier": false,
             "buildPoints": 0

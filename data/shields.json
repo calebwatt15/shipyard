@@ -1,7 +1,7 @@
 [
     {
-        "id": 13001,     //unique ID of the shields, should start with 13xxx
-        "name": "INSERTNAME",   //name of the shields
+        "id": 13001,
+        "name": "INSERTNAME",
         "sp": 0,
         "regen": 0,
         "pcu": 1,

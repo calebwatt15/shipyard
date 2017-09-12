@@ -1,15 +1,15 @@
 [
     {
-        "id": 1001,     //unique ID number of the frame. Should start with 1xxx
+        "id": 1001,
         "size": {
-        "name": "tiny", //tiny,small,medium,large,huge,gargantuan,colossal
-        "number": 0     //  1,   2,     3,    4,   5,       6,      7
+        "name": "tiny",
+        "number": 0
         },
-        "name": "INSERTNAME",   //name of the frame
+        "name": "INSERTNAME",
         "maneuverability": {
-            "name": "perfect",  // perfect,good,average,poor,clumsy
-            "pilotingBonus": 2, //    2      1     0     -1     -2
-            "turn": 0           //    0      1     2      3      4
+            "name": "perfect",
+            "pilotingBonus": 2,
+            "turn": 0
         },
         "hp": {
             "base": 20, 

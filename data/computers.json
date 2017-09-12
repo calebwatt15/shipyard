@@ -1,7 +1,7 @@
 [
     {
-        "id": 5001,     //unique ID of the computer, should start with 5xxx
-        "name": "INSERTNAME",   //name of the computer
+        "id": 5001,
+        "name": "INSERTNAME",
         "bonus": 0,
         "nodes": 0,
         "pcu": 0,

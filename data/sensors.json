@@ -1,7 +1,7 @@
 [
     {
-        "id": 11001,     //unique ID of the sensors, should start with 11xxx
-        "name": "INSERTNAME",   //name of the sensors
+        "id": 11001,
+        "name": "INSERTNAME",
         "range": 0,
         "modifier": 0,
         "cost": {

@@ -1,11 +1,11 @@
 [
     {
-        "id": 3001,     //unique ID of the thruster, should start with 30xx
-        "name": "INSERTNAME",   //name of the engine
-        "size": 0, // 0 - tiny, 1 - sm, 2 - med, 3 - lg, 4 - garg, 5 - col
-        "speed": 0, // in hexes
-        "pilotingMod": 0, // can be plus or minus
-        "pcu": 0, // pcu consumed
-        "cost": 4 //in build point
+        "id": 3001,
+        "name": "INSERTNAME",
+        "size": 0,
+        "speed": 0,
+        "pilotingMod": 0,
+        "pcu": 0,
+        "cost": 4
     }
 ]
