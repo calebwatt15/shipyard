@@ -1,0 +1,15 @@
+[
+    {
+        "id": 4001,     //unique ID of the armor, should start with 4xxx
+        "name": "INSERTNAME",   //name of the armor
+        "ac": 0,
+        "special": {
+            "targetLock": 0,
+            "turnDistance": 0
+        },
+        "cost": {
+            "multiplier": true,
+            "buildPoints": 0
+        }
+    }
+]

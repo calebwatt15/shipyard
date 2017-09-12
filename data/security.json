@@ -1,0 +1,10 @@
+[
+    {
+        "id": 10001,     //unique ID of the security system, should start with 10xxx
+        "name": "INSERTNAME",   //name of the security system
+        "cost": {
+            "multiplier": false,
+            "buildPoints": 0
+        }
+    }
+]

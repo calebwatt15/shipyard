@@ -1,0 +1,12 @@
+[
+    {
+        "id": 7001,     //unique ID of the defenses, should start with 7xxx
+        "name": "INSERTNAME",   //name of the defenses
+        "targetLock": 0,
+        "pcu": 0,
+        "cost": {
+            "multiplier": false,
+            "buildPoints": 0
+        }
+    }
+]

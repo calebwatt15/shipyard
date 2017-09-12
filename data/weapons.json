@@ -1,0 +1,18 @@
+[
+    {
+        "id": 12001,     //unique ID of the weapon, should start with 12xxx
+        "name": "INSERTNAME",   //name of the weapon
+        "sizeWeapon": 0, // 0 - light, 1 - heavy, 2 - capital
+        "type": "direct-fire", // direct-fire, tracking
+        "range": 0, // 0 - short,  1 - medium, 2 - long
+        "speed": 0,
+        "damage": "0d0", // can be number of dice, "special", or dice and multiplier
+        "pcu": 0,
+        "special": "-", // -, ripper, point, etc.
+        "minSize": 0,
+        "cost": {
+            "multiplier": false,
+            "buildPoints": 0
+        }
+    }
+]
